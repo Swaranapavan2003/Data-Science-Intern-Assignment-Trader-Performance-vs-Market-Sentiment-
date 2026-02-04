@@ -1,0 +1,78 @@
+date,Account,classification,Closed PnL,Size USD,trades_per_day,win,leverage_segment,frequency_segment,consistency_segment,segment
+28-03-2023,0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,Greed,0,159,3,0,High Leverage,Infrequent,Inconsistent,Low Frequency
+14-11-2023,0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,Greed,0,23066.935,2,0,High Leverage,Infrequent,Inconsistent,Low Frequency
+14-11-2023,0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23,Greed,155.503357,11034.79951,1043,0.275167785,High Leverage,Frequent,Inconsistent,Medium Frequency
+09-03-2024,0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,Extreme Greed,-5564.01614,3048.594444,27,0.333333333,High Leverage,Infrequent,Inconsistent,Low Frequency
+09-03-2024,0x430f09841d65beb3f27765503d0f850b8bce7713,Extreme Greed,0,1136.312727,88,0,High Leverage,Infrequent,Inconsistent,Low Frequency
+09-03-2024,0x4f93fead39b70a1824f981a54d4e55b278e9f760,Extreme Greed,-7919.471032,6219.798493,730,0.306849315,Low Leverage,Infrequent,Inconsistent,Medium Frequency
+09-03-2024,0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4,Extreme Greed,187842.0842,3677.809106,3041,0.824071029,Low Leverage,Frequent,Consistent Winners,High Frequency
+09-03-2024,0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23,Extreme Greed,2606.894756,7639.724412,3076,0.218790637,High Leverage,Frequent,Inconsistent,High Frequency
+03-07-2024,0x271b280974205ca63b716753467d5a371de622ab,Neutral,-1,6070.2,5,0,Low Leverage,Infrequent,Inconsistent,Low Frequency
+03-07-2024,0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,Neutral,215.754798,767.24775,80,0.1,High Leverage,Infrequent,Inconsistent,Low Frequency
+03-07-2024,0x430f09841d65beb3f27765503d0f850b8bce7713,Neutral,145563.4484,1759.953494,249,0.951807229,High Leverage,Infrequent,Consistent Winners,Low Frequency
+03-07-2024,0x4f93fead39b70a1824f981a54d4e55b278e9f760,Neutral,-25991.50634,10190.31793,1309,0.331550802,Low Leverage,Frequent,Inconsistent,Medium Frequency
+03-07-2024,0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4,Neutral,0.16272,34.91666667,6,0.166666667,Low Leverage,Infrequent,Inconsistent,Low Frequency
+03-07-2024,0x8477e447846c758f5a675856001ea72298fd9cb5,Neutral,-9125.157325,772.3728871,3810,0.325459318,Low Leverage,Frequent,Inconsistent,High Frequency
+03-07-2024,0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0,Neutral,-14505.50575,7877.326667,39,0,High Leverage,Infrequent,Inconsistent,Low Frequency
+03-07-2024,0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23,Neutral,62586.1816,2875.217894,1643,0.209981741,High Leverage,Frequent,Inconsistent,Medium Frequency
+27-10-2024,0x083384f897ee0f19899168e3b1bec365f52a9012,Greed,-327505.9001,14810.89182,462,0.025974026,Low Leverage,Infrequent,Inconsistent,Medium Frequency
+27-10-2024,0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd,Greed,20607.44609,2492.749906,320,0.53125,High Leverage,Infrequent,Consistent Winners,Medium Frequency
+27-10-2024,0x271b280974205ca63b716753467d5a371de622ab,Greed,1793.160215,31941.66,5,0.8,Low Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x28736f43f1e871e6aa8b1148d38d4994275d72c4,Greed,121880.386,483.5901143,6472,0.443757726,High Leverage,Frequent,Consistent Winners,High Frequency
+27-10-2024,0x2c229d22b100a7beb69122eed721cee9b24011dd,Greed,52215.72945,2941.825688,763,0.474442988,High Leverage,Infrequent,Consistent Winners,Medium Frequency
+27-10-2024,0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,Greed,36993.37101,2583.170064,156,0.467948718,High Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x39cef799f8b69da1995852eea189df24eb5cae3c,Greed,34983.38186,4554.800139,144,0.527777778,Low Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6,Greed,7612.618288,2786.426545,191,0.413612565,High Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x420ab45e0bd8863569a5efbb9c05d91f40624641,Greed,16102.56859,6480.62816,125,0.216,Low Leverage,Infrequent,Inconsistent,Low Frequency
+27-10-2024,0x430f09841d65beb3f27765503d0f850b8bce7713,Greed,160450.5181,6742.719767,43,0.88372093,High Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x47add9a56df66b524d5e2c1993a43cde53b6ed85,Greed,69282.42904,494.2368391,3711,0.338183778,Low Leverage,Frequent,Inconsistent,High Frequency
+27-10-2024,0x4acb90e786d897ecffb614dc822eb231b4ffb9f4,Greed,61076.16781,8444.161189,328,0.411585366,High Leverage,Infrequent,Consistent Winners,Medium Frequency
+27-10-2024,0x4f93fead39b70a1824f981a54d4e55b278e9f760,Greed,111230.498,19645.16683,1703,0.328244275,Low Leverage,Frequent,Inconsistent,Medium Frequency
+27-10-2024,0x513b8629fe877bb581bf244e326a047b249c4ff1,Greed,0,3261.578879,223,0,High Leverage,Infrequent,Inconsistent,Low Frequency
+27-10-2024,0x6d6a4b953f202f8df5bed40692e7fd865318264a,Greed,101539.274,525.47136,250,1,Low Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x72743ae2822edd658c0c50608fd7c5c501b2afbd,Greed,327546,16311.13847,202,0.514851485,High Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0x72c6a4624e1dffa724e6d00d64ceae698af892a0,Greed,51737.57942,2305.20043,419,0.028639618,Low Leverage,Infrequent,Inconsistent,Medium Frequency
+27-10-2024,0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4,Greed,37526.33188,2056.391348,1016,0.820866142,Low Leverage,Frequent,Consistent Winners,Medium Frequency
+27-10-2024,0x8170715b3b381dffb7062c0298972d4727a0a63b,Greed,0,2333.253333,15,0,Low Leverage,Infrequent,Inconsistent,Low Frequency
+27-10-2024,0x8381e6d82f1affd39a336e143e081ef7620a3b7f,Greed,11.717676,933.2848148,54,0.037037037,Low Leverage,Infrequent,Inconsistent,Low Frequency
+27-10-2024,0x8477e447846c758f5a675856001ea72298fd9cb5,Greed,39978.37791,1376.814141,1804,0.324279379,Low Leverage,Frequent,Inconsistent,Medium Frequency
+27-10-2024,0x92f17e8d81a944691c10e753af1b1baae1a2cd0d,Greed,8695.357326,2936.198591,724,0.075966851,High Leverage,Infrequent,Inconsistent,Medium Frequency
+27-10-2024,0xa0feb3725a9335f49874d7cd8eaad6be45b27416,Greed,49180.71488,1636.150226,4211,0.4186654,High Leverage,Frequent,Consistent Winners,High Frequency
+27-10-2024,0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0,Greed,67900.24755,1684.20258,283,0.54770318,High Leverage,Infrequent,Consistent Winners,Medium Frequency
+27-10-2024,0xae5eacaf9c6b9111fd53034a602c192a04e082ed,Greed,20925.51322,3387.339158,190,0.552631579,High Leverage,Infrequent,Consistent Winners,Low Frequency
+27-10-2024,0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb,Greed,55.01524,1862.93,9,0.222222222,Low Leverage,Infrequent,Inconsistent,Low Frequency
+27-10-2024,0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23,Greed,1421755.846,2166.171861,1268,0.5670347,High Leverage,Frequent,Consistent Winners,Medium Frequency
+27-10-2024,0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3,Greed,11671.68,2725.780599,267,0.153558052,Low Leverage,Infrequent,Inconsistent,Medium Frequency
+27-10-2024,0xbee1707d6b44d4d52bfe19e41f8a828645437aab,Greed,684215.0026,2693.283796,9883,0.569260346,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x083384f897ee0f19899168e3b1bec365f52a9012,Fear,1927735.72,16345.24194,3356,0.405542312,Low Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd,Fear,17098.72706,1693.351684,3533,0.435041042,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x271b280974205ca63b716753467d5a371de622ab,Fear,29970.92822,10836.90097,1136,0.430457746,Low Leverage,Frequent,Consistent Winners,Medium Frequency
+19-02-2025,0x28736f43f1e871e6aa8b1148d38d4994275d72c4,Fear,10435.09567,533.2378128,6794,0.432734766,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x2c229d22b100a7beb69122eed721cee9b24011dd,Fear,116412.2546,3205.000631,2471,0.533791987,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891,Fear,-59349.67711,1648.557536,349,0.263610315,High Leverage,Infrequent,Inconsistent,Medium Frequency
+19-02-2025,0x39cef799f8b69da1995852eea189df24eb5cae3c,Fear,-20526.46253,4800.430827,3445,0.319303338,Low Leverage,Frequent,Inconsistent,High Frequency
+19-02-2025,0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6,Fear,45883.62896,4338.219787,141,0.560283688,High Leverage,Infrequent,Consistent Winners,Low Frequency
+19-02-2025,0x420ab45e0bd8863569a5efbb9c05d91f40624641,Fear,183403.0241,4563.756163,258,0.244186047,Low Leverage,Infrequent,Inconsistent,Low Frequency
+19-02-2025,0x430f09841d65beb3f27765503d0f850b8bce7713,Fear,110527.9059,2807.662399,671,0.482861401,High Leverage,Infrequent,Consistent Winners,Medium Frequency
+19-02-2025,0x47add9a56df66b524d5e2c1993a43cde53b6ed85,Fear,32683.21409,541.9522813,4629,0.365521711,Low Leverage,Frequent,Inconsistent,High Frequency
+19-02-2025,0x4acb90e786d897ecffb614dc822eb231b4ffb9f4,Fear,613327.8272,8998.349073,3806,0.495270625,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x4f93fead39b70a1824f981a54d4e55b278e9f760,Fear,223968.3709,20468.30364,3737,0.391758095,Low Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x513b8629fe877bb581bf244e326a047b249c4ff1,Fear,403501.6482,28304.44506,5777,0.41561364,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x6d6a4b953f202f8df5bed40692e7fd865318264a,Fear,6979.340871,891.0710664,572,0.269230769,Low Leverage,Infrequent,Inconsistent,Medium Frequency
+19-02-2025,0x72743ae2822edd658c0c50608fd7c5c501b2afbd,Fear,98269.19507,8098.078723,932,0.439914163,High Leverage,Frequent,Consistent Winners,Medium Frequency
+19-02-2025,0x72c6a4624e1dffa724e6d00d64ceae698af892a0,Fear,341945.4347,2123.400266,939,0.396166134,Low Leverage,Frequent,Consistent Winners,Medium Frequency
+19-02-2025,0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4,Fear,136208.0439,2330.303308,4885,0.798567042,Low Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f,Fear,14781.44305,3643.361287,1554,0.451093951,Low Leverage,Frequent,Consistent Winners,Medium Frequency
+19-02-2025,0x8170715b3b381dffb7062c0298972d4727a0a63b,Fear,196303.7928,2249.731113,3056,0.28763089,Low Leverage,Frequent,Inconsistent,High Frequency
+19-02-2025,0x8381e6d82f1affd39a336e143e081ef7620a3b7f,Fear,64510.16996,6453.556398,1802,0.34017758,Low Leverage,Frequent,Inconsistent,Medium Frequency
+19-02-2025,0x8477e447846c758f5a675856001ea72298fd9cb5,Fear,46257.35819,658.3625777,5602,0.307390218,Low Leverage,Frequent,Inconsistent,High Frequency
+19-02-2025,0x92f17e8d81a944691c10e753af1b1baae1a2cd0d,Fear,100502.4208,3430.149135,2080,0.390384615,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0xa0feb3725a9335f49874d7cd8eaad6be45b27416,Fear,40314.80801,1157.879354,9274,0.320034505,High Leverage,Frequent,Inconsistent,High Frequency
+19-02-2025,0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0,Fear,19451.74248,820.6771579,95,0.884210526,High Leverage,Infrequent,Consistent Winners,Low Frequency
+19-02-2025,0xae5eacaf9c6b9111fd53034a602c192a04e082ed,Fear,8751.751449,3072.957692,182,0.269230769,High Leverage,Infrequent,Inconsistent,Low Frequency
+19-02-2025,0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb,Fear,21703.81651,8441.060743,525,0.323809524,Low Leverage,Infrequent,Inconsistent,Medium Frequency
+19-02-2025,0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23,Fear,553818.0005,1818.587241,7380,0.391056911,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0xb899e522b5715391ae1d4f137653e7906c5e2115,Fear,22488.50082,22504.55583,4838,0.438610996,Low Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0xbaaaf6571ab7d571043ff1e313a9609a10637864,Fear,940157.2127,3210.775186,21190,0.467531855,High Leverage,Frequent,Consistent Winners,High Frequency
+19-02-2025,0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3,Fear,325441.9772,8103.972913,2211,0.37222976,Low Leverage,Frequent,Inconsistent,High Frequency
+19-02-2025,0xbee1707d6b44d4d52bfe19e41f8a828645437aab,Fear,126967.9762,1554.837334,26651,0.384863607,High Leverage,Frequent,Inconsistent,High Frequency
